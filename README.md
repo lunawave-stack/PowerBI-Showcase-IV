@@ -1,10 +1,7 @@
 # PowerBI-Showcase-IV
-Power BI DAX Calculations Lab
-Course: PL-300: Microsoft Power BI Data Analyst
-Lab: 04 – Create DAX Calculations
 
 Overview
-This lab demonstrates the creation and implementation of Data Analysis Expressions (DAX) to extend a semantic data model with calculated tables, calculated columns, and measures. Key outcomes include a fiscal-aware Date table, a duplicated Salesperson table for direct sales attribution, and business metrics such as price statistics, order counts, and performance variance against targets.
+This project demonstrates the creation and implementation of Data Analysis Expressions (DAX) to extend a semantic data model with calculated tables, calculated columns and measures. Key outcomes include a fiscal-aware Date table, a duplicated Salesperson table for direct sales attribution and business metrics such as price statistics, order counts and performance variance against targets.
 
 Key Activities
 Calculated Tables:
